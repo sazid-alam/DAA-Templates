@@ -1,3 +1,11 @@
+/*
+
+Dynamic Node Addition (Reverse Floyd-Warshall)The Problem: 
+You are given an initial graph, and vertices are slowly deleted one by one. After each deletion, you must print the sum of all shortest paths among the currently active vertices. (Classic problem: Codeforces 295B - Greg and Graph).
+The Trick: Shortest path algorithms hate node deletion. Instead, read all queries offline, reverse the order of the queries, and add nodes one by one. Floyd-Warshall is perfectly designed for this: the outer loop $k$ is literally "allow paths to route through node $k$."
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <numeric>
