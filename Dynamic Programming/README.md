@@ -66,8 +66,16 @@ This section adds common Dynamic Programming templates in separate topic directo
 - `Knapsack/0-1 Knapsack (Bounded) - Core Problem.cpp`
 - `Knapsack/Subset Sum Problem.cpp`
 - `Knapsack/Equal Sum Partition (Partition Equal Subset Sum).cpp`
+- `Knapsack/Count of Subsets with a Given Sum.cpp`
+- `Knapsack/Minimum Subset Sum Difference.cpp`
+- `Knapsack/Target Sum (LeetCode 494).cpp`
+- `Knapsack/Coin Change (LeetCode 322).cpp`
+- `Knapsack/Coin Change II (LeetCode 518).cpp`
 - `LIS/Longest Increasing Subsequence - Core Problem.cpp`
 - `LIS/Print - Reconstruct the LIS (Actual Sequence).cpp`
 - `LIS/Number of Longest Increasing Subsequences (LeetCode 673).cpp`
+- `LIS/Longest Non-Decreasing Subsequence.cpp`
+- `LIS/Longest Bitonic Subsequence.cpp`
+- `LIS/Maximum Sum Increasing Subsequence.cpp`
 - `LCS/Longest Common Subsequence (LCS).cpp`
 - `Matrix Chain Multiplication/Matrix Chain Multiplication (MCM).cpp`
